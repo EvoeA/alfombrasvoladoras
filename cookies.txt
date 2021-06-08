@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pixelsfinance.site	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1623167892|KhSWsND1vsBQ
+www.pixelsfinance.site	TRUE	/	FALSE	1999999999	hs	1758834055
+www.pixelsfinance.site	TRUE	/	FALSE	1999999999	svSession	646d04a2816c366b0329bca046a21e157cc67339e6b0b2b7c9d74dc3c13a7e2333b23f2b1529afb01810a7425661531c1e60994d53964e647acf431e4f798bcd604e9cedde429aeb2c6538ef0882d262415fabf341f593c3e4af0aedb2f31e9e11e99a684e59957f094f1060225b860d2fe925f99c2f660a3399c3857ceac76b07ac5054d87b8d17b8eac15ed1ff1432
+www.pixelsfinance.site	TRUE	/	FALSE	1999999999	SameSite	None
+www.pixelsfinance.site	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=none
+.wix.com	TRUE	/	FALSE	1999999999	_wixAB3|6193b311-c91e-45e2-8825-67e7b5c90f42	140244#2|136130#2|150438#4|171271#1|147474#1|161623#2|139418#2|167559#2|88778#1|136022#1
+
